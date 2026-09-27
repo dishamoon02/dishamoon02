@@ -110,7 +110,7 @@ I'm building hands-on experience toward roles in:
 
 ## 📫 Connect With Me
 
-- LinkedIn:
+- LinkedIn: www.linkedin.com/in/disha-moon-960aa6370
 - GitHub: [My GitHub](https://github.com/)
 
 ---
